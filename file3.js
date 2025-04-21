@@ -1,6 +1,6 @@
 const func=()=>{
-    alert("aaa")
+    alert("Hello everyone")
 }
 const func1=()=>{
-    return "bbbb"
+    return "5"
 }
